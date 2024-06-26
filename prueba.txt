@@ -1,1 +1,1 @@
-Querido diario, estoy usando git. Hoy 25 lo modifico.
+Querido diario, estoy usando git. Hoy 25 de junio lo modifico para usar GitHub.
